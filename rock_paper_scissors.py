@@ -25,8 +25,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
-
 import random
 
 rnd = random.randint(0,2)
