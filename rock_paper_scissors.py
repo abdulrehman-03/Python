@@ -1,3 +1,8 @@
+# Haven't done much error handling. Just raw code
+# You are welcome to change the code and make a pull request
+
+import random
+
 rock = '''
     _______
 ---'   ____)
@@ -24,8 +29,6 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-
-import random
 
 rnd = random.randint(0,2)
 
