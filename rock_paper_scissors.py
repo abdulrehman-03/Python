@@ -51,6 +51,8 @@ else:
   
 if user == rnd:
   result = "Draw!"
+elif user == 0 and rnd == 2:
+  result = "You won!"
 elif rnd > user:
   result = "Computer won!"
 elif rnd == 0 and user == 2:
