@@ -16,3 +16,12 @@ Run the treasure_hunt.py code using python:
 `python3 treasure_hunt.py`
 
 Good luck finding that treasure!
+
+
+## Rock, Paper, Scissors
+
+Run the rock_paper_scissors.py code using python:
+
+`python3 rock_paper_scissors.py`
+
+Good luck against the computer!
