@@ -32,6 +32,7 @@ Good luck against the computer!
 Open the hangman directory using and run the hangman.py file:
 
 `cd hangman`
+
 `python3 hangman.py`
 
 Play the game and test your vocabulary!
