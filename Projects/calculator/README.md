@@ -1,6 +1,6 @@
 # Welcome to Calculator
 
-Basic calculator I built while practicing python functions.
+Basic calculator I built while practicing functions in python.
 
 ## Installation
 
