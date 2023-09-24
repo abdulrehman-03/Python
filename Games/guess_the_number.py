@@ -21,6 +21,8 @@ attempts = 5
 # Changing number of attempts and guessing range based on difficulty level
 if level == 'easy':
   attempts = 10
+elif level == 'hard':
+  attempts = 5
 elif level == 'expert':
   range = 150
 else:  
