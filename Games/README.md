@@ -31,3 +31,14 @@ Open the hangman directory using and run the hangman.py file:
 `python3 hangman.py`
 
 Play the game and test your vocabulary!
+
+
+### Blackjack
+
+Open the blackjack directory using and run the blackjack.py file:
+
+`cd blackjack`
+
+`python3 blackjack.py`
+
+Play the game and test your odds!
