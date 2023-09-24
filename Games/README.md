@@ -42,3 +42,12 @@ Open the blackjack directory using and run the blackjack.py file:
 `python3 blackjack.py`
 
 Play the game and test your odds!
+
+### Guess The Number
+
+Run the guess_the_number.py using python:
+
+`python3 guess_the_number.py`
+
+Try you luck and see if you can find the number at expert level
+
