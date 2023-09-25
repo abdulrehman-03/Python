@@ -28,7 +28,7 @@ Visit the hangman directory for more instructions
 
 ### Blackjack
 
-Open the blackjack directory and read instructions.
+Open the blackjack directory and read instructions
 
 
 ### Guess The Number
