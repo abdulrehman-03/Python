@@ -12,6 +12,12 @@ Do you want to send your friend a secret message? Caesar got you... Share this p
 
 ### Password Generator
 
-Generate secure password to keep yourself safe.
+Generate secure password to keep yourself safe
 
 `python3 password_generator.py`
+
+### Coffee Machine
+
+Feeling down? Make yourself a coffee and enjoy
+
+`python3 coffee_machine.py`
