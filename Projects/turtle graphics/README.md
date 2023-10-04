@@ -1,12 +1,12 @@
 # Welcome to Turtle Graphics
 
-### Some projects and games built using turtle library
+## Some projects and games built using turtle library
 
 
-Install Turtle module:
+### Install Turtle module:
 
 `pip3 install turtle`
 
-Run the game:
+### Run the game:
 
 `python3 main.py`
