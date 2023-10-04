@@ -6,7 +6,3 @@
 ### Install Turtle module:
 
 `pip3 install turtle`
-
-### Run the game:
-
-`python3 main.py`
