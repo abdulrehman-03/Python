@@ -1,4 +1,4 @@
-from turtle import Screen, Turtle
+from turtle import Screen
 from paddles import Paddles
 from ball import Ball
 from scoreboard import Scoreboard
