@@ -29,3 +29,4 @@ class Scoreboard(Turtle):
     def game_end(self):
         self.home()
         self.write("Good Job! You finished all levels", align="center", font=FONT)
+
