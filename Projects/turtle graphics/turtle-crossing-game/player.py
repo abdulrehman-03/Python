@@ -22,4 +22,3 @@ class Player(Turtle):
     # Reset player to its original position. Useful when user completes a level
     def reset_player(self):
         self.goto(0, -280)
-
