@@ -33,10 +33,7 @@ def save():
     website = website_entry.get()
     email = email_entry.get()
     password = password_entry.get()
-    print(len(password))
-    print(len(email))
-    print(len(website))
-
+    
     if len(website) == 0 or len(email) == 0 or len(password) == 0:
         messagebox.showinfo(title="Oops", message="Please don't leave any fields empty!")
     else:
